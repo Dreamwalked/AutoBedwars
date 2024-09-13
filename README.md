@@ -89,6 +89,7 @@ Other engines like Bun and Deno would probably work, but they haven't been teste
 * Uses minimal PC resources
 * Moves around and dies occasionally to avoid AFK checks
 * Automatically requeues on game end
+* Webhook that provides updates on the bot's status
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
